@@ -1,0 +1,38 @@
+.container {
+  background-color: bisque;
+}
+.col {
+  color: blue;
+}
+.col:hover {
+  color: blueviolet;
+}
+.city {
+  color: blueviolet;
+  font-size: 35px;
+}
+.city:hover {
+  color: yellowgreen;
+}
+.date {
+  font-size: large;
+  color: rgb(50, 43, 44);
+}
+.cloudy {
+  font-size: 80px;
+}
+.degree {
+  font-size: 40px;
+}
+.button {
+  size: small;
+}
+.days {
+  font-size: larger;
+}
+.emoji {
+  font-size: 60px;
+}
+.degrees {
+  font-size: small;
+}
